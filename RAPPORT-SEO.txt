@@ -1,0 +1,23 @@
+SOLUTECH SERVICE HABITAT — VERSION SEO FINALE
+Date : 24 juillet 2026
+
+Le design et les textes visibles du site ont été conservés.
+
+Modifications réalisées :
+- 10 pages HTML optimisées.
+- Titres et méta-descriptions propres à chaque page.
+- URL canoniques.
+- Balises Open Graph et Twitter pour le partage.
+- Données structurées Schema.org LocalBusiness / Service.
+- Référencement géographique Yonne (89) et partie de l’Aube (10).
+- Fichier sitemap.xml avec les 10 pages.
+- Fichier robots.txt.
+- Fichier CNAME pour solutechservicehabitat.fr.
+- Fichier .nojekyll pour GitHub Pages.
+- Chargement différé des images secondaires et décodage asynchrone.
+
+Contrôles effectués :
+- Validation du sitemap XML.
+- Validation des données JSON-LD.
+- Contrôle des liens et fichiers locaux.
+- Vérification des balises SEO essentielles sur les 10 pages.
