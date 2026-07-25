@@ -2,7 +2,7 @@ const toggle=document.querySelector('.menu-toggle');const nav=document.querySele
 Nom : ${nom}
 Téléphone : ${tel}
 Service : ${service}
-Besoin : ${msg}`};const sms=document.getElementById('sms-devis');if(sms){sms.addEventListener('click',()=>{window.location.href=`sms:+33605585173?body=${encodeURIComponent(buildDevisMessage())}`})}const email=document.getElementById('email-devis');if(email){email.addEventListener('click',(e)=>{e.preventDefault();window.location.href=`mailto:solutechhabitat@gmail.com?subject=${encodeURIComponent('Demande de devis - SOLUTECH SERVICE HABITAT')}&body=${encodeURIComponent(buildDevisMessage())}`})}
+Besoin : ${msg}`};const sms=document.getElementById('sms-devis');if(sms){sms.addEventListener('click',()=>{window.location.href=`sms:+33605585173?body=${encodeURIComponent(buildDevisMessage())}`})}const email=document.getElementById('email-devis');if(email){email.addEventListener('click',(e)=>{e.preventDefault();window.location.href=`mailto:contact@solutechservicehabitat.fr?subject=${encodeURIComponent('Demande de devis - SOLUTECH SERVICE HABITAT')}&body=${encodeURIComponent(buildDevisMessage())}`})}
 
 
 // V11 — Effet 3D fluide au survol et apparition au défilement
